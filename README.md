@@ -74,7 +74,7 @@ git clone https://github.com/SrikanthMidathapalli/ERP_College_Mangement_System.g
 cd my-project
 
 ## usage:
-After project come reside into your local system
+After project clone and it is  reside into your local system
 
 run the erp.java in eclipse, and use the cmd to run the frontend angular after residing on project path enter ng serve command you can able to use the App
 
