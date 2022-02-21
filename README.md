@@ -1,4 +1,4 @@
-# ERP_College_Mangement_System
+# College_ERP_Management_System
 ## Project Description:
 College Erp application is web based Single page Application project, which is implemented to provide some of the features to the users
 
