@@ -10,7 +10,8 @@ In this project Angular is used for frontend.
 
 Spring Boot is used for Backend.
 
-Technologies Used:
+## Technologies Used:
+
 1.JDK 1.8
 
 2.oracle 11g
